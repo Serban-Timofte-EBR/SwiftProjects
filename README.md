@@ -1,2 +1,4 @@
 # SwiftProjects
-This repo contains small learning projects created in Swift
+This repo contains small learning projects created in IOS Apps
+
+warChallange is SwiftUI 
